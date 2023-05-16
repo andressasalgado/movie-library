@@ -6,6 +6,8 @@ Até 09/05 para a primeira entrega eu montei o formulário e um css bem breve, a
 
 Não vou criar banco de dados, então vai ser apenas salvo enquanto a aplicação está rodando.
 
+Atualização para 16/05 eu não consegui fazer o salvamento do formulário, tive algumas tentativas mas ainda sem sucesso, por isso vou apresentar apenas a reorganização dos componentes, pois deixei cada etapa do formulário em componentes separados, juntando depois em um só.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
